@@ -1,0 +1,14 @@
+@import "vars";
+
+.categories {
+  &__title {
+    text-align: center;
+    margin: 0 0 45px;
+    font-family: $secondary-font;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 0.5em;
+  }
+}
